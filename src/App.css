@@ -1,0 +1,8 @@
+.contain{
+    background-color: #eee;
+    padding: 20px;
+    padding-left: 35%;
+}
+th,td,form{
+    padding: 15px;
+}
